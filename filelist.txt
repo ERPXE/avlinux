@@ -1,0 +1,6 @@
+.:
+avlinux.menu
+avlinux.png
+filelist.txt
+initrd.img
+vmlinuz
